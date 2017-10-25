@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.9)  25 OCT 2017 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.9)  25 OCT 2017 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,10 +489,10 @@ Missing character: There is no € in font bchr7t!
 Missing character: There is no ™ in font bchr7t!
 File: TSF_Logo_NB.jpg Graphic file (type jpg)
 <use TSF_Logo_NB.jpg>
-Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 77. on input line 
-77.
+Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 76. on input line 
+76.
 Package pdftex.def Info: Requested size: 141.08992pt x 55.786pt on input line 7
-7.
+6.
 
 Package Fancyhdr Warning: \headheight is too small (32.80954pt): 
  Make it at least 79.94606pt.
@@ -504,14 +504,6 @@ Package Fancyhdr Warning: \headheight is too small (32.80954pt):
 
 {c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./TSF_Logo_NB.j
 pg>]
-<NYAD_chart.pdf, id=9, pagebox=cropbox, 565.11511pt x 415.525pt>
-File: NYAD_chart.pdf Graphic file (type pdf)
-<use NYAD_chart.pdf>
-Package pdftex.def Info: NYAD_chart.pdf  used on input line 107. on input line 
-107.
-Package pdftex.def Info: Requested size: 376.48465pt x 276.83421pt on input lin
-e 107.
-
 
 Package Fancyhdr Warning: \headheight is too small (73.00108pt): 
  Make it at least 74.58551pt.
@@ -525,25 +517,24 @@ Package Fancyhdr Warning: \headheight is too small (73.00108pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3 <./NYAD_chart.pdf>] 
+[3] 
 AED: lastpage setting LastPage
 (./TSF Summer Update 102617.aux) ) 
 Here is how much of TeX's memory you used:
- 4635 strings out of 492990
- 60372 string characters out of 6136350
- 199034 words of memory out of 5000000
- 8122 multiletter control sequences out of 15000+600000
- 20710 words of font info for 41 fonts, out of 8000000 for 9000
+ 4627 strings out of 492990
+ 60227 string characters out of 6136350
+ 200034 words of memory out of 5000000
+ 8117 multiletter control sequences out of 15000+600000
+ 18872 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,14n,45p,16838b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/b
 ase/8r.enc}<c:/texlive/2017/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb>
-<c:/texlive/2017/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive
-/2017/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on "TSF Summer Update 102617.pdf" (3 pages, 123352 bytes).
+<c:/texlive/2017/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
+Output written on "TSF Summer Update 102617.pdf" (3 pages, 77563 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
