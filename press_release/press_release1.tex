@@ -1,0 +1,89 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Press Release
+% LaTeX Template
+% Version 1.0 (2/6/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,pressrelease]{newlfm} % Font size
+
+\usepackage{charter} % Use the Charter font for the document text
+
+\PhrPhone{Email} % Customize the "Telephone" text
+\PhrEmail{Email} % Customize the "E-mail" text
+%\PhrContact{Contact} % Uncomment this line to change the 'Contact:' text
+
+%----------------------------------------------------------------------------------------
+%	PRESS RELEASE INFORMATION
+%----------------------------------------------------------------------------------------
+
+\makeletterhead{Uiuc}{\Cheader{\vspace{16pt}\includegraphics[width=0.5\linewidth]{logo.png}}} % Include a company logo, if you don't use one you will need to uncomment line 6 in the prsrls.tex file
+\lthUiuc % Print the company/institution logo
+
+\release{For Immediate Release to Tartan Student Fund} % When the press release may be used
+
+\namefrom{David Hiles, Head of Allocation} % Name
+
+\addrfrom{ % From address
+Questions?}
+
+\phonefrom{dhiles@cmu.edu} % Phone number
+
+\emailfrom{dhiles@cmu.edu} % Email address
+
+\headline{Portfolio Updates} % Headline for the press release
+
+\newcommand{\subtitle}{An update regarding the current allocations, recent trades and planned changes.} % Subtitle for the press release, if you don't want one just remove the subtitle text leaving the rest of the command
+
+\byline{\textbf{Carnegie Mellon University, -- \today ~--} Regarding DUK, Industrials ETF's, V and FAF. } % A summary line for the press release
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\begin{newlfm}
+
+%----------------------------------------------------------------------------------------
+%	PRESS RELEASE CONTENT
+%----------------------------------------------------------------------------------------
+
+\vspace{-.50 in}
+\begin{singlespace} % Uncomment for single line spacing
+
+\begin{enumerate}
+\item \textbf{Duke Energy} \par
+We have voted to take a position in Duke Energy, and are currently be restructuring our PU portfolio.  We will be reducing out stake in Marathon Peteroleum and Phillips 66.  We are a \textit{strongly favoring} Utilites in this portfolio group, and we are going to we will take a \$1,000 or a 2 \% position.  
+
+\item  \textbf{VIS and XLB} \par
+We have a 7.5 \% and a 7.3 \% stake in the Vanguard Industrials ETF and Materials Select Sector ETF.  We are deciding to reduce these sakes to 3 \% each, raising cash for the Industrials group for up-coming pitches.  Furthermore, we are uncertain about commodity prices and want to reduce our exposure to these headwinds.
+
+\item \textbf{Visa} \par
+We are significantly overweight with our position in Visa, taking up almost 8\% of the total fund's allocation.  While our investment thesis held, the stock has been very market correlated (upwards of .80) and have been impacted by the recent market downturn.  We are comfortable selling at a loss to diversify the Financials group portfolio.  
+
+\item \textbf{First American Financial} We are going to take a small position in First American Financial with cash raised from Visa.  We believe that this will help us transition away from the S\&P Insurance ETF.  
+
+
+
+\end{enumerate}
+
+
+\end{singlespace} % Uncomment for single line spacing
+
+
+
+%----------------------------------------------------------------------------------------
+
+\end{newlfm}
+\end{document}

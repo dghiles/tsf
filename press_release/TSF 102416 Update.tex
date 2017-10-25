@@ -1,0 +1,97 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Press Release
+% LaTeX Template
+% Version 1.0 (2/6/13)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,pressrelease]{newlfm} % Font size
+
+\usepackage{charter} % Use the Charter font for the document text
+\usepackage{hyperref}
+
+
+\PhrPhone{Phone} % Customize the "Telephone" text
+\PhrEmail{Email} % Customize the "E-mail" text
+%\PhrContact{Contact} % Uncomment this line to change the 'Contact:' text
+
+%----------------------------------------------------------------------------------------
+%	PRESS RELEASE INFORMATION
+%----------------------------------------------------------------------------------------
+
+\makeletterhead{Uiuc}{\Cheader{\vspace{16pt}\includegraphics[width=0.3\linewidth]{TSF_Logo_NB.jpg}}} % Include a company logo, if you don't use one you will need to uncomment line 6 in the prsrls.tex file
+\lthUiuc % Print the company/institution logo
+
+\release{For Immediate Release to Tartan Student Fund} % When the press release may be used
+
+\namefrom{David Hiles, Head of Allocation} % Name
+
+\phonefrom{732-796-8352} % Phone number
+
+\emailfrom{dhiles@cmu.edu} % Email address
+
+\headline{Portfolio Updates} % Headline for the press release
+
+\newcommand{\subtitle}{This is a subtitle to the headline giving more information about the headline.}  % Subtitle for the press release, if you don't want one just remove the subtitle text leaving the rest of the command
+
+\byline{\textbf{Carnegie Mellon University, -- \today ~--} \$SEP, AT\&T and Consumer Group Split.} % A summary line for the press release
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\begin{newlfm}
+
+%----------------------------------------------------------------------------------------
+%	PRESS RELEASE CONTENT
+%----------------------------------------------------------------------------------------
+
+\vspace{-.25 in} 			%.25  is normal
+\begin{singlespace} 		% Uncomment for single line spacing
+
+\begin{enumerate}
+\item \textbf{Spectra Energy Partners} \par
+We will be taking an average sized position in \$SEP, a partnership that owns and operates fee-based natural gas pipeline and storage businesses. We are optimistic that the supply and demand dynamics of the natural gas market will hold, but still hesitant when it comes to the strength of cash flows, with regards to CAPEX, etc. As discussed in the meeting, the contract system can pose an extra risk, BUT, can also provide secure future revenue streams.
+
+\item \textbf{AT\&T} \par
+Recently, \textbf{AT\&T} announced a merger with \textbf{Time Warner} (\href{http://www.wsj.com/articles/time-warner-makes-game-of-thrones-confused-customers-think-its-the-cable-company-1464790213}{not Time Warner Cable}). The 86 billion dollar deal warrants very close regulatory scrutiny, something the TMT group must look into. Some of the positives outlined in the press release were as follows: First year after close, \textbf{AT\&T} will see full recovery of their adjusted EPS \& free cash flow per share basis. This also (further) diversifies \textbf{AT\&T}’s revenue mix and lowers capital intensity. We are closely watching the \textit{attractive} 5.2\% dividend yield; to contextualize, \textbf{AT\&T} is yielding 3 times a 10yr Treasury, quite attractive. 
+
+\item \textbf{Consumer Groups} \par
+As outlined last week, we split the Consumer group in to \textit{Consumer Discretionary/Cyclical} and \textit{Consumer Defensive/Staples}. Both names are appropriate for each group. 
+
+\begin{center}
+Current Holdings \\
+\begin{tabular}{|l|l|l|l|}
+\hline
+Vanguard Consumer Staples ETF &	\$VDC &	\$4,869.36 & 47 \%\\
+\hline \hline
+Nike &	\$NKE  & \$2,393.38 & 23 \% \\
+\hline
+Vanguard Consumer Discretionary ETF  & \$VCR & \$3,011.76 & 29 \% \\
+\hline
+\end{tabular}
+\end{center}
+We will have the Defensive (CD) group drain their \$VDC ETF and Consumer Cyclical (CC) group drain their \$VCR ETF and reduce our lagging \textbf{NKE} position as we see fit. 
+
+%\item \textbf{Dave's Trade}: Company has considerably outperformed YTD, gun sales are record high in this election year and and I see no reason to see this trend slow.
+
+\end{enumerate}
+
+
+Thank you, \par
+Research, Risk and Strategy
+
+
+\end{singlespace} % Uncomment for single line spacing
+
+
+%----------------------------------------------------------------------------------------
+
+\end{newlfm}
+\end{document}

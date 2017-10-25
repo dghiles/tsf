@@ -1,0 +1,86 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Press Release
+% LaTeX Template
+% Version 1.0 (2/6/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,pressrelease]{newlfm} % Font size
+
+\usepackage{charter} % Use the Charter font for the document text
+
+\PhrPhone{Phone} % Customize the "Telephone" text
+\PhrEmail{Email} % Customize the "E-mail" text
+%\PhrContact{Contact} % Uncomment this line to change the 'Contact:' text
+
+%----------------------------------------------------------------------------------------
+%	PRESS RELEASE INFORMATION
+%----------------------------------------------------------------------------------------
+
+\makeletterhead{Uiuc}{\Cheader{\vspace{16pt}\includegraphics[width=0.4\linewidth]{TSF_logo.jpg}}} % Include a company logo, if you don't use one you will need to uncomment line 6 in the prsrls.tex file
+\lthUiuc % Print the company/institution logo
+
+\release{For Release to Carnegie Mellon Investment Office} % When the press release may be used
+
+\namefrom{David Hiles, Head of Allocation} % Name
+
+\addrfrom{dhiles@cmu.edu} % From address}
+
+%\phonefrom{(000) 111-1111} % Phone number
+
+%\emailfrom{dhiles@cmu.edu} % Email address
+
+\headline{Trades to be Executed} % Headline for the press release
+
+%\newcommand{\subtitle}{An update regarding the current allocations, recent trades and planned changes.} % Subtitle for the press release, if you don't want one just remove the subtitle text leaving the rest of the command
+
+\byline{\textbf{Carnegie Mellon University, -- \today.} } % A summary line for the press release
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\begin{newlfm}
+
+%----------------------------------------------------------------------------------------
+%	PRESS RELEASE CONTENT
+%----------------------------------------------------------------------------------------
+
+
+\vspace{-.5 in}
+\begin{singlespace} % Uncomment for single line spacing
+
+\begin{enumerate}
+\item \textbf{AT\&T}:  Buy 12 shares of T at market price.
+
+%\item  \textbf{Vanguard Telecommunication Services ETF}: Sell 8 shares of VOX at market price.
+
+\item  \textbf{PowerShares Dynamic Semiconductors ETF}:  Sell 18 shares of PSI at market price.
+
+\item \textbf{iShares US Technology ETF}: Sell 5 shares of IYW at market price. 
+
+
+\end{enumerate}
+
+
+Thank you, \\
+Tartan Student Fund
+
+\end{singlespace} % Uncomment for single line spacing
+
+%----------------------------------------------------------------------------------------
+
+\end{newlfm}
+\end{document}
