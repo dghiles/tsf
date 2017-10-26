@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.9)  25 OCT 2017 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.9)  25 OCT 2017 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -360,19 +360,19 @@ Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa)
 (./TSF Summer Update 102617.aux)
 \openout1 = `"TSF Summer Update 102617.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Try loading font information for OT1+bch on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 54.
 
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
@@ -440,47 +440,47 @@ e
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 55.
+(lastpage)             ! on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 56.
+(Font)              <10.95> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 56.
+(Font)              <8> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 56.
+(Font)              <6> on input line 55.
 <TSF_Logo_NB.jpg, id=1, 921.4425pt x 364.36125pt>
 File: TSF_Logo_NB.jpg Graphic file (type jpg)
 <use TSF_Logo_NB.jpg>
-Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 56. on input line 
-56.
+Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 55. on input line 
+55.
 Package pdftex.def Info: Requested size: 108.0011pt x 42.70403pt on input line 
-56.
+55.
 File: TSF_Logo_NB.jpg Graphic file (type jpg)
 <use TSF_Logo_NB.jpg>
-Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 56. on input line 
-56.
+Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 55. on input line 
+55.
 Package pdftex.def Info: Requested size: 32.40065pt x 12.80954pt on input line 
-56.
+55.
 File: TSF_Logo_NB.jpg Graphic file (type jpg)
 <use TSF_Logo_NB.jpg>
-Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 56. on input line 
-56.
+Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 55. on input line 
+55.
 Package pdftex.def Info: Requested size: 108.0011pt x 42.70403pt on input line 
-56.
+55.
 File: TSF_Logo_NB.jpg Graphic file (type jpg)
 <use TSF_Logo_NB.jpg>
-Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 56. on input line 
-56.
+Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 55. on input line 
+55.
 Package pdftex.def Info: Requested size: 108.0011pt x 42.70403pt on input line 
-56.
+55.
 
-Underfull \hbox (badness 10000) detected at line 56
+Underfull \hbox (badness 10000) detected at line 55
   
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 56.
+(Font)              <12> on input line 55.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
@@ -489,10 +489,10 @@ Missing character: There is no € in font bchr7t!
 Missing character: There is no ™ in font bchr7t!
 File: TSF_Logo_NB.jpg Graphic file (type jpg)
 <use TSF_Logo_NB.jpg>
-Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 76. on input line 
-76.
+Package pdftex.def Info: TSF_Logo_NB.jpg  used on input line 71. on input line 
+71.
 Package pdftex.def Info: Requested size: 141.08992pt x 55.786pt on input line 7
-6.
+1.
 
 Package Fancyhdr Warning: \headheight is too small (32.80954pt): 
  Make it at least 79.94606pt.
@@ -511,30 +511,38 @@ Package Fancyhdr Warning: \headheight is too small (73.00108pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
+<tsf_divergence.png, id=12, 673.3155pt x 488.42474pt>
+File: tsf_divergence.png Graphic file (type png)
+<use tsf_divergence.png>
+Package pdftex.def Info: tsf_divergence.png  used on input line 93. on input li
+ne 93.
+Package pdftex.def Info: Requested size: 310.0426pt x 224.90169pt on input line
+ 93.
+
 
 Package Fancyhdr Warning: \headheight is too small (73.00108pt): 
  Make it at least 74.58551pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3] 
+[3 <./tsf_divergence.png>] 
 AED: lastpage setting LastPage
 (./TSF Summer Update 102617.aux) ) 
 Here is how much of TeX's memory you used:
- 4627 strings out of 492990
- 60227 string characters out of 6136350
+ 4633 strings out of 492990
+ 60340 string characters out of 6136350
  200034 words of memory out of 5000000
- 8117 multiletter control sequences out of 15000+600000
+ 8121 multiletter control sequences out of 15000+600000
  18872 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,14n,45p,16838b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/b
 ase/8r.enc}<c:/texlive/2017/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb>
 <c:/texlive/2017/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on "TSF Summer Update 102617.pdf" (3 pages, 77563 bytes).
+Output written on "TSF Summer Update 102617.pdf" (3 pages, 128008 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 27 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
